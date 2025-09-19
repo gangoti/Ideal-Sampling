@@ -195,15 +195,20 @@ plt.show()
 ```
 
 ## output waveform
+
 ## Ideal sampling :
+
 <img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/c01c3125-1f38-4d91-9588-aad590b81482" />
 
 <img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/9b0fb6f4-e905-4228-9a1e-87d8ba3f43db" />
 
 
 <img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/ded599d7-284a-4997-a1de-13bada541b2c" />
+
 ## Natural Sampling:
+
 <img width="1390" height="989" alt="image" src="https://github.com/user-attachments/assets/236d144d-f184-43a7-8540-7da8afd941cb" />
+
 ## Flattop Sampling:
 
 <img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/92265a81-75db-4b61-aa50-904434131dab" />
